@@ -1,7 +1,7 @@
 {
     "manifest_version": 2, 
-    "name": "Evening Theme",
-    "description": "A clear night sky theme for your browsing experience, cheers.",
+    "name": "The Early Morning Theme",
+    "description": "A calming orange theme for your browsing experience, cheers.",
     "version": "1.0",
     "permissions": ["activeTab"],
     "content_scripts": [
