@@ -1,7 +1,7 @@
 
 
 html {
-  background-image: linear-gradient(#F29E4C, #F1C453);
+  background-image: linear-gradient(#F29E4C, #F1C453); /* gradient effect for the popup */
 /*	background-color: #DBFCFF;*/
 	text-align: center;
 	margin: 6px;
@@ -35,7 +35,7 @@ footer {
 	height: 34px;
 	margin-top: 5px;
 	border-radius: 26px;
-	cursor: url(../images/moonmouse32.png), auto;
+	cursor: url(../images/moonmouse32.png), auto; /* whent he mouse hovers over the buttons, the cursor changes to what I want! */
 }
 
 #button2 {

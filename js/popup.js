@@ -1,5 +1,9 @@
 console.log("hello form popup")
 
+//I struggled a lot with getting the buttons to toggle between themes with the demonstrations
+//in class. In the popup jquery I wanted to change the colur of the poup but I couldnt figure out
+//how to keep the initial gradient so for now its a gradient colour and then switches to a dark blue.
+
 // $('#button1').on("click", function() {
 
 // 	chrom.tabs.query({active: true, currentWindow: true}, function(tabs) {

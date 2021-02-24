@@ -1,10 +1,13 @@
 
+/* I wanted to make an extension that would work on multiple websites while a person browsed so as a
+   sure-fire way to make sure the changes actually show up was to put !important after everything */
+
 .hero-main {
 	font-size: 13px !important;
 	text-decoration: none !important;
 	color: #9A031E !important;
 	background-color: #FFEEDD !important;
-	cursor: url(../images/sunmouse32.png), auto;
+	cursor: url(../images/sunmouse32.png), auto; /* last ditch effort to have the cursor show up on websites */
 }
 
 header, head {
