@@ -1,0 +1,36 @@
+
+.hero-main {
+	font-size: 13px !important;
+	text-decoration: none !important;
+	color: #9A031E !important;
+	background-color: #FFEEDD !important;
+	cursor: url(../images/sunmouse32.png), auto;
+}
+
+header, head {
+	font-size: 18px !important;
+	text-decoration: none !important;
+	color: #19180A !important;
+	background-color: #A13D63 !important;
+}
+
+body, html {
+	font-size: 13px !important;
+	text-decoration: none !important;
+	color: #9A031E !important;
+	background-color: #FFEEDD !important;
+}
+
+footer {
+	font-size: 9px !important;
+	text-decoration: none !important;
+	color: #FCDC4D !important;
+	background-color: #564154 !important;
+}
+
+.box {
+	font-size: 13px !important;
+	background-color: #F5F9E9 !important;
+	border-radius: 30px !important;
+}
+

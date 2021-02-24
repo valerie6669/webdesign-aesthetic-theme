@@ -1,0 +1,53 @@
+
+
+html {
+  background-image: linear-gradient(#F29E4C, #F1C453);
+/*	background-color: #DBFCFF;*/
+	text-align: center;
+	margin: 6px;
+	cursor: url(../images/moonmouse32.png), auto;
+}
+
+/*#grad {
+  background-image: linear-gradient(to bottom right, #7CA5B8, #DBFCFF);
+}*/
+
+body {
+	width: 160px;
+	height: 140px;
+}
+
+h1 {
+	font-size: 15px;
+	color: #2A1F2D;
+}
+
+footer {
+	font-size: 11px;
+	color: #2A1F2D;
+}
+
+#button1 {
+	background-color: #1C0B19;
+	color: #FEF6C9;
+	font-size: 12px;
+	width: 80px;
+	height: 34px;
+	margin-top: 5px;
+	border-radius: 26px;
+	cursor: url(../images/moonmouse32.png), auto;
+}
+
+#button2 {
+	background-color: #BA1F33;
+	color: #FCDC4D;
+	font-size: 12px;
+	width: 80px;
+	height: 34px;
+	margin-top: 5px;
+	border-radius: 26px;
+	cursor: url(../images/sunmouse32.png), auto;
+}
+/*button {
+	background: url(../images/moonmouse.png), auto;
+}*/
